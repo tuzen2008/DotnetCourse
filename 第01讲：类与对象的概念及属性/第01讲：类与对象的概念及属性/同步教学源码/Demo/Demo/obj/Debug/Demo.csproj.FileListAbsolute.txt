@@ -1,0 +1,19 @@
+C:\Users\Administrator\Desktop\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Administrator\Desktop\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Administrator\Desktop\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Administrator\Desktop\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Administrator\Desktop\Demo\Demo\obj\Debug\Demo.pdb
+E:\【1】课程课件\【1】.NET\【3】A-全套课程【下载专用】\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\bin\Debug\Demo.exe.config
+E:\【1】课程课件\【1】.NET\【3】A-全套课程【下载专用】\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\obj\Debug\Demo.exe
+E:\【1】课程课件\【1】.NET\【3】A-全套课程【下载专用】\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\obj\Debug\Demo.pdb
+J:\【1】.NET\【3】A-全套课程【下载专用】201802\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\bin\Debug\Demo.exe.config
+J:\【1】.NET\【3】A-全套课程【下载专用】201802\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\obj\Debug\Demo.exe
+J:\【1】.NET\【3】A-全套课程【下载专用】201802\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\obj\Debug\Demo.pdb
+\\192.168.2.251\usbshare3\基于C#打造上位机\01 C#和数据库基础\01【喜科堂】C#和数据库基础：1 C#面向对象和CS开发基础\课程资料\第01讲：类与对象的概念及属性\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\bin\Debug\Demo.exe.config
+\\192.168.2.251\usbshare3\基于C#打造上位机\01 C#和数据库基础\01【喜科堂】C#和数据库基础：1 C#面向对象和CS开发基础\课程资料\第01讲：类与对象的概念及属性\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\bin\Debug\Demo.exe
+\\192.168.2.251\usbshare3\基于C#打造上位机\01 C#和数据库基础\01【喜科堂】C#和数据库基础：1 C#面向对象和CS开发基础\课程资料\第01讲：类与对象的概念及属性\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\bin\Debug\Demo.pdb
+\\192.168.2.251\usbshare3\基于C#打造上位机\01 C#和数据库基础\01【喜科堂】C#和数据库基础：1 C#面向对象和CS开发基础\课程资料\第01讲：类与对象的概念及属性\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+\\192.168.2.251\usbshare3\基于C#打造上位机\01 C#和数据库基础\01【喜科堂】C#和数据库基础：1 C#面向对象和CS开发基础\课程资料\第01讲：类与对象的概念及属性\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+\\192.168.2.251\usbshare3\基于C#打造上位机\01 C#和数据库基础\01【喜科堂】C#和数据库基础：1 C#面向对象和CS开发基础\课程资料\第01讲：类与对象的概念及属性\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\obj\Debug\Demo.exe
+\\192.168.2.251\usbshare3\基于C#打造上位机\01 C#和数据库基础\01【喜科堂】C#和数据库基础：1 C#面向对象和CS开发基础\课程资料\第01讲：类与对象的概念及属性\第01讲：类与对象的概念及属性\同步教学源码\Demo\Demo\obj\Debug\Demo.pdb

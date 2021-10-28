@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\Debug\StudentManagerPro.exe.config
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\Debug\StudentManagerPro.exe
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\bin\Debug\StudentManagerPro.pdb
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.FrmMain.resources
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.FrmUserLogin.resources
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.Properties.Resources.resources
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.exe
+C:\Users\Administrator\Desktop\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+E:\【1】课程课件\【1】.NET\【3】A-全套课程【下载专用】\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第07讲：Windows项目界面的设计（二）\同步教学源码\StudentManagerPro\StudentManagerPro\bin\Debug\StudentManagerPro.exe.config
+E:\【1】课程课件\【1】.NET\【3】A-全套课程【下载专用】\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第07讲：Windows项目界面的设计（二）\同步教学源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.exe
+E:\【1】课程课件\【1】.NET\【3】A-全套课程【下载专用】\课程[02]【初级基础】：C#面向对象编程基础技能突破\本课程学习资料\第07讲：Windows项目界面的设计（二）\同步教学源码\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
